@@ -19,7 +19,7 @@ A list of GitHub lists & documents I've personally enjoyed (list of lists = "lis
 ### Languages
 - [Awesome C](https://github.com/kozross/awesome-c)
 - [Awesome Kotlin](https://github.com/KotlinBy/awesome-kotlin)
-- [Awesome Python Asyncio)][https://github.com/timofurrer/awesome-asyncio]
+- [Awesome Python Asyncio](https://github.com/timofurrer/awesome-asyncio)
 - [Awesome Python Security](https://github.com/guardrailsio/awesome-python-security)
 
 
